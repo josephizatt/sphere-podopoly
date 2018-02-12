@@ -11,4 +11,4 @@ Clone this application onto a Raspberry Pi 3 and connect it up to the GamePod.
 
 First take a look at Databases.ods, you'll need Excel, Libre, or OpenOffice to view. 
 
-We'll update you here as things progress. 
+Databases .ods is now 100% complete! Keep up to date with new stuff in the CHANGELOG!
