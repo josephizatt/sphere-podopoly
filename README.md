@@ -1,11 +1,14 @@
-# sphere-podopoly
-We're developing Podopoly! 
+# Welcome to Podopoly by Sphere! 
+
+This application can be run on the GamePod by Sphere. 
 
 Podopopoly is an interactive and real life Monopoly simulator that you can play at home.
 
-The file system here will be cloned ontop a raspberry pi unit and booted up with the Podopoly game unit.
+Clone this application onto a Raspberry Pi 3 and connect it up to the GamePod.
 
 
-# Dev files 
+# Working on Podopoly?
 
-Take a look at Databases.ods, you'll need Excel, Libre, or OpenOffice to view. 
+First take a look at Databases.ods, you'll need Excel, Libre, or OpenOffice to view. 
+
+We'll update you here as things progress. 
