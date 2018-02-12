@@ -12,3 +12,10 @@ Clone this application onto a Raspberry Pi 3 and connect it up to the GamePod.
 First take a look at Databases.ods, you'll need Excel, Libre, or OpenOffice to view. 
 
 Databases .ods is now 100% complete! Keep up to date with new stuff in the CHANGELOG!
+
+## Dice
+
+Current dice development is limited to Scratch. Download the the "THROW.sb2" file and import it into Scratch.
+If you need help with this email izattthomas@gmail.com
+
+
